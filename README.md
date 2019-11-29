@@ -16,9 +16,11 @@ The idea is to use TensorFlow for making image size invariant model, which will 
 One of the existing use cases: knee recovery exercise:
 
 1. An app detects the pose of a patient and instructs him with action. Instructions could be placed on the display of the phone or tablet.
+
 ![](assets/recovery_1.jpg)
 
 2. When a patient made one of the rep exercises in proper way the app notify him with sound and or counter.
+
 ![](assets/recovery_2.jpg)
 
 The core functionality of the could be also improved by adding a voice assistant to correct the execution of exercises. Or by adding Chromecast support to displaying exercise results on a TV screen.
